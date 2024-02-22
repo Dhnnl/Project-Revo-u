@@ -4,11 +4,18 @@
          <tittle>Judul</tittle>
      </head>
      <body>
-         <h1>Macam² Buah</h1>
-         <ol type="1">
-           <li>Jeruk</li>
-           <li>Mangga</li>
-         </ul>  
+       <table>
+         <tr>
+           <th>Company</th>
+           <th>Contact</th>
+           <th>Country</th>
+         </tr>
+         <tr>
+           <td>Afreads Futterkiste</td>
+           <td>Maria Andreas</td>
+           <td>Germany</td>
+         </tr>
+       </table>
      </body>
   </html>
   
