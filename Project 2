@@ -1,1 +1,12 @@
-<IDOCTYPE html>
+<html>
+    <head>
+      <body>
+        <h1>Macam² buah</h1>
+        <ul>
+          <li>Mangga</li>
+          <li>Jeruk</li>
+          <li>Semangka</li>
+        </ul>
+      </body>
+    </head>
+  </html>
